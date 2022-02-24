@@ -1,0 +1,500 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The liberties and cvstomes of the lead-mines within the wapentake of Wirksworth in the county of Derby part thereof appearing by extracts from the bundels of the exchequer and inquisitions taken in the XVIth year of the reign of King Edward the first and in other kings reigns and continued ever since / composed in meeter by Edward Manlove Esq. ...</title>
+            <author>Manlove, Edward, fl. 1667.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51786</idno>
+            <idno type="STC">Wing M453</idno>
+            <idno type="STC">ESTC R13751</idno>
+            <idno type="EEBO-CITATION">13587200</idno>
+            <idno type="OCLC">ocm 13587200</idno>
+            <idno type="VID">100586</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51786)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100586)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 465:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The liberties and cvstomes of the lead-mines within the wapentake of Wirksworth in the county of Derby part thereof appearing by extracts from the bundels of the exchequer and inquisitions taken in the XVIth year of the reign of King Edward the first and in other kings reigns and continued ever since / composed in meeter by Edward Manlove Esq. ...</title>
+                  <author>Manlove, Edward, fl. 1667.</author>
+               </titleStmt>
+               <extent>[2], 9 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100586:1"/>
+            <!-- PDF PAGE 110 -->
+            <pb facs="tcp:100586:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 110 -->
+            <p>THE LIBERTIES AND CVSTOMES OF THE LEAD-MINES Within the Wapentake of <hi>WIRKSWORTH</hi> In the County of DERBY, Part thereof appearing by extracts from the Bundels of the Exchequer, and Inquiſitions taken in the XVI<hi rend="sup">th</hi> year of the Reign of King <hi>Edward</hi> the Firſt, and in other Kings Reigns, and continued ever ſince.</p>
+            <p>Compoſed in Meeter by EDWARD MANLOVE <abbr>Eſq</abbr> heretofore Steward of the Barghmoot Court for the Lead-mines within the ſaid Wapentake.</p>
+            <p>
+               <hi>LONDON,</hi> Printed <hi>Anno Dom.</hi> 1653.</p>
+            <figure/>
+         </div>
+      </front>
+      <body>
+         <div type="illustration">
+            <pb facs="tcp:100586:2"/>
+            <!-- PDF PAGE 111 -->
+            <p>
+               <figure>
+                  <p>S<hi rend="sup">R</hi>. PETER THOMPSON. F·R·S.</p>
+                  <q>NIL CONSCIRE SIBI.</q>
+                  <byline>J Mynde ſculp.</byline>
+                  <figDesc>modern bookplate</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="poem">
+            <pb n="1" facs="tcp:100586:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 111 -->
+            <head>The Liberties and Customs of the Lead Mines, within the Wapentake of <hi>Wirkſworth</hi> in the County of <hi>Der<g ref="char:EOLhyphen"/>by;</hi> Compoſed in Meeter by <hi>Ed<g ref="char:EOLhyphen"/>ward Manlove</hi> Eſquire, hereto<g ref="char:EOLhyphen"/>fore Steward of the Barghmoote Court for the Lead Mines with<g ref="char:EOLhyphen"/>in the ſaid Wapentake.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">B</seg>Y cuſtom old in <hi>Wirksworth</hi> Wapentake,<note place="margin">3 &amp; 4 Phil. &amp; Mar. Art. 4.</note>
+               </l>
+               <l>If any of this Nation find a Rake,</l>
+               <l>Or ſign, or leading to the ſame; may ſet</l>
+               <l>In any ground, and there Lead-oar may get:</l>
+               <l>They may make croſſes, holes,<note place="margin">16 E. 1. cap. 2.</note> and ſet their Stowes,</l>
+               <l>Sink ſhafts, build Lodges, Cottages or Coes.</l>
+               <l>But Churches, houſes, gardens, all are free</l>
+               <l>From this ſtrange cuſtom of the Minery.</l>
+               <l>A croſs and hole a good poſſeſſion is</l>
+               <l>But for three dayes, and then the cuſtom's this,<note place="margin">3 E. 6. Art. 14. Phil. &amp; Mar. Art. 11.</note>
+               </l>
+               <l>To ſet down ſtowes, timber'd in all mens ſight,</l>
+               <l>Then ſuch poſſeſſion ſtands for three weeks right,</l>
+               <l>If that the ſtowes be pinned and well wrought,<note place="margin">Phil. &amp; Mar. Art. 11, &amp; 25.</note>
+               </l>
+               <l>With yokings, ſole-trees, elſe they ſtand for nought;</l>
+               <l>
+                  <pb n="2" facs="tcp:100586:3"/>
+                  <!-- PDF PAGE 112 -->
+Or if a Spindle wanting be to nick,</l>
+               <l>'T is no poſſeſſion,<note place="margin">3 Ed. 6 c. 2.</note> no not for a week:</l>
+               <l>But may be loſt, and by another taken,</l>
+               <l>As any Grove that's left, quit, or forſaken:</l>
+               <l>For the Barghmaſter (by the cuſtom) ought</l>
+               <l>To walk the field, to ſee that works be wrought,</l>
+               <l>And on the Spindle ought to ſet a nick,</l>
+               <l>If that the grove unworked be three week.</l>
+               <l>And every three weeks, until nine weeks end,</l>
+               <l>To nick the Miners Spindles that offend:</l>
+               <l>And when the Spindle nicked is three times,</l>
+               <l>According to the Cuſtom of the Mines,</l>
+               <l>Then the Barghmaſter may the ſtowes remove,</l>
+               <l>And he that ſet them loſeth the ſame grove:</l>
+               <l>Unleſs the work by water hinder'd be,</l>
+               <l>Or elſe by wind, the Miner then is free</l>
+               <l>From loſing any meer of ground or grove,</l>
+               <l>For then ſuch Stows none ought for to remove,</l>
+               <l>And the Barghmaſter ought to make arreſt,</l>
+               <l>Upon complaint, if Mines be in Conteſt,</l>
+               <l>Receiving Four pence for his lawfull Fee,</l>
+               <l>That the next Court the wrong redreſſ'd may be.</l>
+               <l>The Vulgar term is,<note place="margin">16 Ed. 6. c. 2.</note> ſetting for a Mine,</l>
+               <l>Forth' grace of God, and what I there can find;</l>
+               <l>And then at him ſome other Miners take,</l>
+               <l>And gain poſſeſſion in the ſelf-ſame Rake:</l>
+               <l>A nother Miner for a Croſſe-vein ſets,</l>
+               <l>Some take at him, and their poſſeſſion gets.</l>
+               <l>Some take for one thing, ſome for other free,</l>
+               <l>As new thing, old thing, Croſſe-vein, Tee, or Pee.</l>
+               <l>But yet a difference may be taken clear,<note place="margin">16 Ed. 1. c. 1. Art. <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 3 E<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 6. Ar. 11.3, &amp; 4. Phil. &amp; Mat Ar 20.16 Ed. 1. c. 2.</note>
+               </l>
+               <l>Betwixt a founder, and a taker meer;</l>
+               <l>Becauſe the finder, that doth find a Rake,</l>
+               <l>May have two meers met, and ſet out by ſtake,</l>
+               <l>Which is in length twice Eighty ſeven foot,</l>
+               <l>And ſo is to be meaſur'd and laid out.</l>
+               <l>But firſt the finder his two meers muſt free</l>
+               <l>With oar there found,<note place="margin">3 Ed. 6. Ar. 15.3, &amp; 4, Ph. &amp; Ma: Ar. 22.</note> for the Barghmaſters fee,</l>
+               <l>
+                  <pb n="3" facs="tcp:100586:3"/>
+                  <!-- PDF PAGE 112 -->
+Which is one diſh for one meer of the ground,<note place="margin">16 Ed. 1. Ar. 1</note>
+               </l>
+               <l>The others free; becauſe the Miner found;</l>
+               <l>But by incroachment they do two demand,<note place="margin">3 &amp; 4 Ph. &amp; Ma. Ar. 20.</note>
+               </l>
+               <l>And wrong the Miner, which they might withſtand;</l>
+               <l>Then one half meer at either end is due,<note place="margin">16 Ed. 1. c. 2.</note>
+               </l>
+               <l>And to the Lord or Farmers doth accrew;</l>
+               <l>And if two Founders in one Rake be ſet,</l>
+               <l>Perchance the Farmers may a Prim-gapp get:</l>
+               <l>Then muſt the Miners chaſe the ſtole to th'ſtake,<note place="margin">16 Ed. 1. c. 2.</note>
+               </l>
+               <l>From meer to meer, and one at other take:</l>
+               <l>Each taker gains a meer, no more he can</l>
+               <l>Have that finds oar in working an old man.</l>
+               <l>And he (by Cuſtome) that his mine doth free,<note place="margin">16 Ed. 1. Ar. 9.</note>
+               </l>
+               <l>A good eſtate thereby doth gain in Fee;</l>
+               <l>And if he die, and leave behind a wife,<note place="margin">Ibid.</note>
+               </l>
+               <l>The Cuſtome doth endow her for her life;</l>
+               <l>But if the grove be loſt forwant of Stows,</l>
+               <l>Or forfeited, her Dower ſhe doth loſe.</l>
+               <l>By word of mouth eke any Miner may</l>
+               <l>Such Fee and Freehold freely give away.<note place="margin">3 Ed. 6. Ar. 1. Ar. 6. 3 Ed. 6. Ar. 3. 3 &amp; 4 Ph. &amp; Ma. Ar. 13. &amp; 5.</note>
+               </l>
+               <l>Egreſs and regreſs to the Kings high way</l>
+               <l>The Miners have, and lot and Cope they pay.</l>
+               <l>The thirteenth diſh of oar within their mine,</l>
+               <l>To th'Lord for Lot they pay at meaſuring time;</l>
+               <l>Six pence a Load for Cope the Lord demands,</l>
+               <l>And that is paid to the Barghmaſters hands:</l>
+               <l>A gainſt good times the Lord ought to provide</l>
+               <l>A lawfull meaſure equal for both ſides,</l>
+               <l>Both for the Buyer and the Sellers uſe,<note place="margin">3 Ed. 6. Ar. 4.</note>
+               </l>
+               <l>And forfeits forty pence if he refuſe;</l>
+               <l>And he that ſels by any other diſh,<note place="margin">3 &amp; 4 Ph. &amp; Ma. Ar. 6.</note>
+               </l>
+               <l>His oar ſo ſold thereby forfeited is;</l>
+               <l>Small parcels yet poor men may fell for need,</l>
+               <l>If they cannot procure the diſh with ſpeed;</l>
+               <l>Provided always, that to Church and Lord,</l>
+               <l>They pay all duties Cuſtome doth afford,</l>
+               <l>For which the Vicar dayly ought to pray</l>
+               <l>For all the Miners that ſuch duties pay,</l>
+               <l>
+                  <pb n="4" facs="tcp:100586:4"/>
+                  <!-- PDF PAGE 113 -->
+And reaſon good, they venture lives full dear</l>
+               <l>In dangers great; the Vicars tyth comes clear;</l>
+               <l>If Miners loſe their Lives, or Limbs, or Strength,</l>
+               <l>He loſeth not, but looketh for a Tenth;</l>
+               <l>But yet methinks if he a Tenth part claim,</l>
+               <l>It ought to be but a Tenth of clear gain,</l>
+               <l>For Miners ſpend much moneys, pains, and time,</l>
+               <l>In ſincking ſhafts before Lead ore they find,</l>
+               <l>And one in Ten ſcarce finds, and then to pay</l>
+               <l>One out of Ten, poor Miners would diſmay.</l>
+               <l>But uſe them well,<note place="margin">An admoniti<g ref="char:EOLhyphen"/>on to the Mi<g ref="char:EOLunhyphen"/>niſters that re<g ref="char:EOLhyphen"/>ceive Tyth of Lead ore. 3 Ed. 6. Ar 9. 3 &amp; 4 Ph. &amp; Ma. Ar. 16.</note> they are laborious men,</l>
+               <l>And work for you, you ought to pray for them.</l>
+               <l>And ſute for oar muſt be in Barghmoot Court,</l>
+               <l>For Iuſtice thither Miners muſt reſort;</l>
+               <l>If they ſuch Sutes in other Courts Commence</l>
+               <l>They loſe their due oar-debt for ſuch offence,</l>
+               <l>And muſt pay Coſts, becauſe they did proceed</l>
+               <l>Againſt the Cuſtom; Miners all take heed.</l>
+               <l>No man may ſell his grove that's in conteſt</l>
+               <l>Till Sute be ended,<note place="margin">3 Ed. 6. Ar. 20. 3 &amp; 4 Ph. &amp; Ma. Ar. 26.</note> after the arreſt</l>
+               <l>The ſellers grove is loſt by ſuch offence,</l>
+               <l>The buyer fined for ſuch maintenance.</l>
+               <l>And two great Courts of Barghmoot ought to be</l>
+               <l>In every year upon the Minery,<note place="margin">16 Ed. <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. c. 2. 3 Ed. 6. ar. 10. 3 &amp; 4 Ph. &amp; Ma: ar. 19. 3 &amp; 4 Ph. &amp; Ma. Ar. 30 &amp; 33.</note>
+               </l>
+               <l>To puniſh Miners that tranſgreſs the Law,</l>
+               <l>To Curb Offenders, and to keep in awe</l>
+               <l>Such as be Cavers, or do rob mens Coes,</l>
+               <l>Such as be pilferers, or do ſteal mens ſtows;</l>
+               <l>To order grovers, make them pay their part,</l>
+               <l>Joyn with their fellows, or their grove deſert;</l>
+               <l>To fine ſuch miners as mens groves abuſe,</l>
+               <l>And ſuch as orders to obſerve refuſe;</l>
+               <l>Or work their meers beyond their length and ſtake,<note place="margin">3 &amp; 4 Ph. &amp; Ma. Ar. 31.</note>
+               </l>
+               <l>Or otherwiſe abuſe the Mine and Rake,</l>
+               <l>Or ſet their ſtowes, upon their neighbours ground,</l>
+               <l>Againſt the Cuſtom, or exceed their bound,</l>
+               <l>Or Purchaſers that Miners from their way,<note place="margin">3 &amp; 4 Ph. &amp; Ma. Ar. 4 &amp; 5.</note>
+               </l>
+               <l>To their Waſh-troughs do either ſtop or ſtay;</l>
+               <l>
+                  <pb n="5" facs="tcp:100586:4"/>
+                  <!-- PDF PAGE 113 -->
+Or digg, or delve, in any mans Bing-place,<note place="margin">3 &amp; 4 Ph. &amp; Ma: Art. 4, 5. 16 Ed. 1. c. 2.</note>
+               </l>
+               <l>Or do his ſtows throw off, break, or deface:</l>
+               <l>To fine offenders that do break the peace,</l>
+               <l>Or ſhed mens bloud, or any tumults raiſe,</l>
+               <l>Or weapons bear upon the Mine or Rake,</l>
+               <l>Or that poſſeſſions forcibly do take,<note place="margin">3, &amp; 4 Ph. &amp; Ma. ar. 28.</note>
+               </l>
+               <l>Or that diſturb the Court, the Court may fine</l>
+               <l>For their contempts (by cuſtom of the Mine)</l>
+               <l>And likewiſe ſuch as diſpoſſeſſed be,</l>
+               <l>And yet ſet ſtowes againſt authority;</l>
+               <l>Or open leave their Shafts, or groves or holes,</l>
+               <l>By which men loſe their Cattel, ſheep, or ſoles:</l>
+               <l>And to lay pains, that grievance be redreſſ'd,</l>
+               <l>To eaſe the burdens of poor men oppreſſ'd.</l>
+               <l>To ſwear Barghmaſters, that they faithfully</l>
+               <l>Perform their duties on the Minery,</l>
+               <l>And make arreſts, and eke impartially</l>
+               <l>Impannel Jurors, cauſes for to try;</l>
+               <l>And ſee that right be done from time, to time,</l>
+               <l>Both to the Lord, and Farmers, on the Mine.</l>
+               <l>To ſwear a Jury for a half years time,</l>
+               <l>(By Cuſtom call'd) the Body of the Mine,</l>
+               <l>Who Miners are, and Cuſtom underſtand,</l>
+               <l>And by the Cuſtom they have ſome command.</l>
+               <l>They may view groves, when Miners do complain,</l>
+               <l>Relieve the wronged, wrong-doers reſtrain.</l>
+               <l>They may view Treſpaſs done in any grove,</l>
+               <l>Value the Treſpaſs, Treſpaſſers remove.</l>
+               <l>They may lay pains that workmanſhip be made,</l>
+               <l>And fines impoſe, if they be not obey'd.</l>
+               <l>They may cauſe open'd, Drifts, and Sumps, to ſee</l>
+               <l>If any one by other wronged be.</l>
+               <l>When ſtrife doth riſe in groves, the Miners all</l>
+               <l>Theſe four and Twenty Miners uſe to call,</l>
+               <l>To make inquiry, and to view the Rake,</l>
+               <l>To plum and dyal (if beyond the ſtake)</l>
+               <l>A meer be wrought, and Miners wronged be;</l>
+               <l>For by that art they make diſcovery.</l>
+               <l>
+                  <pb n="6" facs="tcp:100586:5"/>
+                  <!-- PDF PAGE 114 -->
+The Steward ought a Three weeks Court withall,</l>
+               <l>To keep at <hi>Wirksworth,</hi>
+                  <note place="margin">
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 4. Ph. &amp; Ma. ar. 19.3, &amp; 4. Ph. &amp; Ma. ar. 29.</note> in the Barghmoot hall,</l>
+               <l>For hearing Cauſes (after the arreſts)</l>
+               <l>And doing right to them that be oppreſt.</l>
+               <l>And if the Barghmaſter make an arreſt,</l>
+               <l>The Steward may (at the Plaintiffs requeſt)</l>
+               <l>Appoint a Court, for trial on the Rake,</l>
+               <l>Within Ten days, that th' Jury view may take.</l>
+               <l>And for attendance there,<note place="margin">3, &amp; 4. Ph. &amp; Ma: ar. 8.</note> the Steward he,</l>
+               <l>By Mineral Cuſtom, hath a Noble fee:</l>
+               <l>Four ſhillings to the Jury muſt be paid,</l>
+               <l>Who for that cauſe were ſummon'd and array'd.</l>
+               <l>And if a verdict be for th' Plaintiff found,</l>
+               <l>The Barghmaſter delivers him the ground;</l>
+               <l>And if the adverſe party him reſiſt,</l>
+               <l>The four and Twenty ought him to aſſiſt;</l>
+               <l>Then may he work (by Cuſtom) without let,</l>
+               <l>Till the Defendant do a Verdict get:<note place="margin">3 Ed. 6. Ar. 13.</note>
+               </l>
+               <l>Then the Barghmaſter ought to do him right,</l>
+               <l>Him to reſtore unto his antient plight;</l>
+               <l>But if three Verdicts for the Plaintiff's found,</l>
+               <l>By Cuſtom the Defendants all are bound;</l>
+               <l>So if three Verdicts with Defendants go,</l>
+               <l>The Plaintiffs are (by Cuſtom) bound alſo,</l>
+               <l>And neither ſide may make a new arreſt</l>
+               <l>For the ſame title that was in Conteſt;</l>
+               <l>But yet the Dutchie Court, (if juſt cauſe be)</l>
+               <l>May yield relief againſt thoſe Verdicts three:</l>
+               <l>Or by Injunction parties all injoyn</l>
+               <l>From getting Oar, in ſuch a meer, or Mine,</l>
+               <l>Until the cauſe be heard, and there appear</l>
+               <l>A title juſt for them that worked there,</l>
+               <l>Or may appoint a Steward, that may try</l>
+               <l>The Cauſe again upon the Minery,</l>
+               <l>And may ſequeſter any ſuch Lead mine,</l>
+               <l>Until the title ſhall be try'd again.</l>
+               <l>And if the Plaintiff chance non-ſute to be,<note place="margin">3 &amp; 4 Ph. &amp; Ma: Ar. 8, &amp; 29.</note>
+               </l>
+               <l>He payes a Noble for a penalty;</l>
+               <l>
+                  <pb n="7" facs="tcp:100586:5"/>
+                  <!-- PDF PAGE 114 -->
+For which (by Cuſtom) Barghmaſters diſtrain,</l>
+               <l>The party non-ſute that muſt pay the pein.</l>
+               <l>No Miners Timber, Pick, or lawfull Stows,<note place="margin">3 &amp; 4 Ph. &amp; Ma. Ar. 10.</note>
+               </l>
+               <l>May be removed from their ground or Coes;</l>
+               <l>If by miſchance a Miner damped be,</l>
+               <l>Or on the Mine be ſlain by Chance-medley,<note place="margin">16 Ed. 1. c. 1 Ar. 12. 3 &amp; 4 Ph. &amp; Ma. Ar. 21.</note>
+               </l>
+               <l>The Barghmaſter or elſe his Deputie</l>
+               <l>Muſt View the Corps before it buried be,</l>
+               <l>And take inqueſt by Iury, who ſhall try</l>
+               <l>By what miſchance the Miner there did die;</l>
+               <l>No Coroner or Eſchetor aught may do,</l>
+               <l>Nor of dead bodies may not take their view.</l>
+               <l>For ſtealing oar twice from the Minery,<note place="margin">16 Ed. 1. c. 2:</note>
+               </l>
+               <l>The Thief that's taken fined twice ſhall be,</l>
+               <l>But the third time that he commits ſuch theft,</l>
+               <l>Shall have a Knife ſtruck through his hand to th'haft,</l>
+               <l>Into the Stow, and there till death ſhall ſtand,</l>
+               <l>Or looſe himſelf by Cutting looſe his hand;</l>
+               <l>And ſhall forſwear the franchiſe of the Mine,</l>
+               <l>And always loſe his freedom from that time.<note place="margin">3 &amp; 4 Ph. &amp; Ma.</note>
+               </l>
+               <l>No Miner ought of an old man to ſet</l>
+               <l>To ſeek a Lead-mine, or Lead oar to get,</l>
+               <l>Untill the Burghmaſter a view hath taken,</l>
+               <l>And find ſuch work an old work quite forſaken;</l>
+               <l>With him two of the body of the Mine</l>
+               <l>To take ſuch view (by Cuſtom) ought to joyn;</l>
+               <l>Which being done, the Miner may go on</l>
+               <l>To ſink, and free his meer (the Lord hath none;)</l>
+               <l>If oar be found, the fruit of his deſire,</l>
+               <l>And woughs be ſtrete, the Miner then may fire,</l>
+               <l>Yet not at all times of his own accord,</l>
+               <l>But at ſuch times as Cuſtom doth afford,</l>
+               <l>In th'afternoon, and after four a clock,</l>
+               <l>He may make fire on the Ragged Rock;</l>
+               <l>But firſt he muſt give notice (leſt the ſmoak</l>
+               <l>In other groves) his fellow Miners Choak;</l>
+               <l>And after notice, if they careleſs be</l>
+               <l>And loſe their lives, the firers ſhall go free.</l>
+               <l>
+                  <pb n="8" facs="tcp:100586:6"/>
+                  <!-- PDF PAGE 115 -->
+If Miners groves arreſted be,<note place="margin">3 Ed. 6. Ar. 17.3 &amp; 4 Ph. &amp; Ma. Ar. 24.</note> yet they</l>
+               <l>Go on and work, the arreſt muſt make no ſtay,</l>
+               <l>But for oar got before the tryal be,</l>
+               <l>The Barghmaſter muſt take ſecurity,</l>
+               <l>And at next Court all parties do appear,</l>
+               <l>And the arreſt muſt be returned there,</l>
+               <l>And then, and there the Cauſe muſt tryed be,</l>
+               <l>Before the Seward of the Minery.</l>
+               <l>Moſt of the Cuſtomes of the Lead-mines, here</l>
+               <l>I have deſcrib'd, as they are uſed there;</l>
+               <l>But many words of art you ſtill may ſeek,</l>
+               <l>The Miners Tearms are like to Heathen Greek,</l>
+               <l>Both ſtrange and uncoth, if you ſome would ſee,</l>
+               <l>Read theſe rough verſes here Compos'd by me.</l>
+            </lg>
+            <lg>
+               <l>BUnnings, Polings, Stemples, Forks, and Slyder,</l>
+               <l>Stoprice, Yokings, Soletrees, Roach, and Ryder,</l>
+               <l>Water holes, Wind holes, Veyns, Coe-ſhafts and Woughs,</l>
+               <l>Main Rakes, Croſs Rakes, Brown-henns, Budles and Soughs,</l>
+               <l>Break-offs, and Buckers, Randum of the Rake,</l>
+               <l>Freeing, and Chaſing of the Stole to th'Stake,</l>
+               <l>Starting of oar, Smilting, and driving drifts,</l>
+               <l>Primgaps, Roof works, Flat-works, Pipe-works, Shifts,</l>
+               <l>Cauke, Sparr, Lid-ſtones, Twitches, Daulings, and Pees,</l>
+               <l>Fell, Bous, and Knock-barke, Forſtid-oar, and Tees,</l>
+               <l>Bing-place, Barmoot Court, Barghmaſter, and Stowes,</l>
+               <l>Croſſes, Holes, Hange-benches, Turntree, and Coes,</l>
+               <l>Founder-meers, Taker-meers, Lot, Cope, and Sumps,</l>
+               <l>Stickings, and Stringes of oar, Waſh-oar and Pumps,</l>
+               <l>Corfes, Clivies, Deads, Meers, Groves, Rake-ſoil, the Gange,</l>
+               <l>Binge-oar, a Spindle, a Lampturn, a Fange,</l>
+               <l>Fleaks, Knockings, Coeſtid, Trunks and Sparks of oar,</l>
+               <l>Sole of the Rake, Smytham, and many more.</l>
+            </lg>
+            <lg>
+               <l>This have I written for the Miners ſake,</l>
+               <l>That Miners are in <hi>Wirkſworth</hi> Wapentake;</l>
+               <l>Perchance if theſe few lines accepted be,</l>
+               <l>An expoſition may be made by me,</l>
+               <l>
+                  <pb n="9" facs="tcp:100586:6"/>
+                  <!-- PDF PAGE 115 -->
+Of Mineral Tearms, to moſt men now abſtruſe,</l>
+               <l>Which by expounding may be of more uſe;</l>
+               <l>But for the preſent, I commit to view</l>
+               <l>This little book, the Mineral Law to ſhew;</l>
+               <l>Which antient Cuſtom hath confirm'd to them</l>
+               <l>That Miners are, and poor laborious men;</l>
+               <l>And much deſire this Cuſtom to preſent,</l>
+               <l>Unto the worthies of the Parliament,</l>
+               <l>And humbly pray, that they for juſtice ſake,</l>
+               <l>Will them confirm in <hi>Wirksworth</hi> Wapentake.</l>
+            </lg>
+            <lg>
+               <l>Good Reader ſpare me if I thee offend</l>
+               <l>With this ſtrang Cuſtom which I here have pend;</l>
+               <l>But Miner read me, take me for thy friend,</l>
+               <l>Stand to thy Cuſtom, thus my Poems end.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
